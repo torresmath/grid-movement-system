@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80f49a19c07357245874dd8ee2f86378, type: 3}
+  m_Name: Warrior
+  m_EditorClassIdentifier: 
+  characterName: Warrior
+  sprite: {fileID: 21300000, guid: 519ae19d042b10b4cb41ae310021d19f, type: 3}
+  UISprite: {fileID: 21300000, guid: e8a9f602da979634d832f0fb934392d0, type: 3}
